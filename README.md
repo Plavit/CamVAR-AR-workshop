@@ -5,3 +5,6 @@ Add the files into a 3D project created with Unity 2019.3, replacing any conflic
 
 ## Original Git:
 https://github.com/nikolageorgiev2000/AR_Pres
+
+## Workshop recording:
+https://drive.google.com/file/d/1RHAky1EipokbfZ4DfwE35q3ZfmEsoc9G/view
